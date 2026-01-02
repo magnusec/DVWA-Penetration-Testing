@@ -1,7 +1,6 @@
-# Penetration-Testing-on-DVWA
 
 
-# 🛡️ Web Application Threat Report: DVWA
+# 🛡️ Penetration-Testing-on-DVWA
 
 This repository contains a comprehensive **web application security assessment and threat mapping report** for **DVWA (Damn Vulnerable Web Application)**.
 
