@@ -1,6 +1,6 @@
 
 
-# 🛡️ Penetration-Testing-on-DVWA
+# Penetration-Testing-on-DVWA
 
 This repository contains a comprehensive **web application security assessment and threat mapping report** for **DVWA (Damn Vulnerable Web Application)**.
 
@@ -8,11 +8,10 @@ DVWA is an intentionally vulnerable web application designed for learning and pr
 
 ---
 
-## 🕵️‍♂️ Identified Vulnerabilities
+## Vulnerabilities
 
-### 🔐 DVWA Vulnerabilities
 
-## 🔐 DVWA Vulnerabilities
+
 
 | # | Vulnerability | Severity | Impact  | Mitigation  |
 |---|--------------|----------|----------------|-------------------|
@@ -44,10 +43,10 @@ The detailed **DVWA security assessment report** included in this repository cov
 ## 🎯 Purpose of This Project
 
 This project is intended for:
-- Cybersecurity students and learners  
-- Penetration testing and VAPT practice  
-- Understanding OWASP Top 10 vulnerabilities  
-- Academic submissions and security portfolios  
+- Cybersecurity students
+- Understanding OWASP Top 10 vulnerabilities
+- Penetration testing and VAPT practice    
+- Academic reference and security portfolios  
 
 All testing was performed in a **controlled lab environment** on intentionally vulnerable software.
 
